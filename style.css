@@ -1,0 +1,106 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.profile{
+    background-image: url(Images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-top: 50px;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+h3{
+    font-size: 30px;
+}
+.nm-highlight{
+    font-size: 50px;
+    color: #ed4b73;
+}
+a{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, #ec5298, #ed4b6e);
+    color: white;
+    text-decoration: none;
+}
+
+p{
+    color: dimgray;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+#dream{
+    margin-top: 150px;
+}
+.biography{
+    background-image: url(Images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+
+.rec-work{
+    background-image: url(Images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+
+.rec-hed{
+    text-align: center;
+    font-size: 40px;
+}
+
+.thir-width{
+    width: 30%;
+    float: left;
+    margin-top: 50px;
+    margin-left: 2%;
+    padding-left: 1%;
+}
+.thir-width img{
+    width: 90%;
+}
+.work{
+    margin-left: 60px;
+}
+
+.client{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.msg p{
+    width: 30%;
+    margin-left: 470px;
+}
+.client h2{
+    font-size: 40px;
+}
+
+.mail{
+    width: 40%;
+    margin-left: 380px;
+    margin-top: 100px;
+    background-image: linear-gradient(45deg, #ec5298, #ed4b6e);
+    border-radius: 10px;
+    padding: 15px; 
+    color: white;
+}
+.mail p{
+    color: white;
+}
+footer{
+    text-align: center;
+}
